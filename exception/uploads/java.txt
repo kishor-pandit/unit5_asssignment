@@ -1,0 +1,7 @@
+//document.getelement/s......()
+byID
+by name
+by classname
+by tag name
+// document.querySelector();
+//document.queryselectorALL()
